@@ -1,0 +1,57 @@
+ body
+{
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 800;
+    background-color:hsl(218, 23%, 16%);
+    color:hsl(193, 38%, 86%);
+    font-size: 28px;
+}
+ .attribution 
+ { 
+     font-size: 11px; text-align: center;
+ }
+
+.attribution a 
+{ 
+    color: hsl(228, 45%, 44%);
+}
+
+.card {
+ 
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 30px;
+    margin-top: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: hsl(217, 19%, 24%);
+ 
+}
+
+.adviceNumber{
+    margin-top: 35px;
+    color: hsl(150, 100%, 66%);
+    font-size: 20px;
+    
+}
+.adviceText{
+    text-align: center;
+    color:hsl(193, 38%, 86%);
+    font-size: 35px;
+    margin: 28px;
+}
+
+#diceButton{
+     all: unset; 
+
+ 
+  /* padding: 0;
+  border: none;
+  outline: none;
+  font: inherit;
+  color: inherit;
+  background: none */
+}
