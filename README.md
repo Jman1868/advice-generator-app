@@ -45,9 +45,8 @@ the adviceSlip API
 
 ### What I learned
 
-This WebApp was mostly a refresher on concepts I had learned earlier. I have been busy with school and other things which ultimately left me feeling a little rusty with webDevelopment in general. Overall, I feel quite happy with my solution to this challenge and I think it came out great.
+This WebApp was mostly a refresher on concepts I had learned earlier. I have been busy with school and other things which ultimately left me feeling a little rusty with Web Development in general. Overall, I feel quite happy with my solution to this challenge and I think it came out great.
 
-- Code snippet
 
 ```css
 .proud-of-this-css {
@@ -60,7 +59,7 @@ This WebApp was mostly a refresher on concepts I had learned earlier. I have bee
 - [FlexboxGuide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me finally understand flexbox. I hadnt used flexbox in a while so I was a little rusty but this article really helped me refresh my memory.
 - [Removing default css](https://css-tricks.com/overriding-default-button-styles/) - A great article about removing default css.
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jman1868)
+- Frontend Mentor - [@Jman1868](https://www.frontendmentor.io/profile/Jman1868)
 ## Acknowledgments
 
 I want to thank FrontendMentor for creating this challenge. It felt nice to follow a design and create something.
