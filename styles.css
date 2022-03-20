@@ -65,6 +65,7 @@
 {   border-radius: 25px;
     padding: 25px;
     background-color: hsl(150, 100%, 51%);
+    box-shadow: 0 10px 15px hsl(150, 100%, 51%);;
 }
 #glowButton{
     position: relative;
