@@ -45,13 +45,57 @@
 }
 
 #diceButton{
-     all: unset; 
+  all: unset;  /* very cool effect hides default css/
 
- 
-  /* padding: 0;
+  /* Old way of removing default css 
+  padding: 0;
   border: none;
   outline: none;
   font: inherit;
   color: inherit;
   background: none */
+}
+#imgButton{
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 20px;
+    padding: 20px;
+}
+#imgButton:hover
+{   border-radius: 25px;
+    padding: 25px;
+    background-color: hsl(150, 100%, 51%);
+}
+#glowButton{
+    position: relative;
+    top: -30px;
+}
+
+#imgDividerMobile
+{
+    margin: 75px;
+}
+
+#imgDividerDesktop{
+    display: none;
+}
+@media (min-width: 1440px) {
+    
+    #imgDividerMobile
+    {
+        
+        display: none;
+    }
+    #imgDividerDesktop
+    {
+       
+       display: block;
+       margin: 50px;
+    }
+
+    .card{
+        border-radius: 30px;
+        margin-top: 100px;
+        margin-left: 300px;
+        margin-right: 300px;
+    }
 }
