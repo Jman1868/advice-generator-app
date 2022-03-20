@@ -47,7 +47,6 @@ the adviceSlip API
 
 This WebApp was mostly a refresher on concepts I had learned earlier. I have been busy with school and other things which ultimately left me feeling a little rusty with Web Development in general. Overall, I feel quite happy with my solution to this challenge and I think it came out great.
 
-- Code snippet
 
 ```css
 .proud-of-this-css {
