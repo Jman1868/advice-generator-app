@@ -55,7 +55,7 @@ This WebApp was mostly a refresher on concepts I had learned earlier. I have bee
 ```
 ### Useful resources
 
-- [CSS Tricks](https://css-tricks.com/) - This site helped me create good looking css. I'd recommend it to anyone who feels like they could imrpove in css. It has many great tips and I refrence this site a ton whenever I create new projects.
+- [CSS Tricks](https://css-tricks.com/) - This site helped me create good looking css. I'd recommend it to anyone who feels like they could improve in css. It has many great tips and I refrence this site a ton whenever I create new projects.
 - [FlexboxGuide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me finally understand flexbox. I hadnt used flexbox in a while so I was a little rusty but this article really helped me refresh my memory.
 - [Removing default css](https://css-tricks.com/overriding-default-button-styles/) - A great article about removing default css.
 ## Author
